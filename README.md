@@ -8,5 +8,8 @@
   }
 ```
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,python,js,php,laravel,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,js,php,laravel,&perline=10)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vim,arch,docker,aws,idea,,&perline=10)](https://skillicons.dev)
 
