@@ -7,6 +7,6 @@
       private String[] hobbies = {"Coding", "Video Games"};
   }
 ```
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,python,js,php,laravel,&perline=10)](https://skillicons.dev)]
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,python,js,php,laravel,&perline=10)](https://skillicons.dev)
 
