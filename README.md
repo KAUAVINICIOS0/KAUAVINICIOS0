@@ -10,7 +10,7 @@ Hey, I'm Kauã! ![](https://user-images.githubusercontent.com/18350557/176309783
   }
 ```
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,js,php,laravel,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,react,php,laravel,&perline=10)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=vim,neovim,vscode,arch,docker,aws,idea,,&perline=10)](https://skillicons.dev)
